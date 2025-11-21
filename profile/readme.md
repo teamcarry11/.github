@@ -92,10 +92,5 @@
 │        to those who seek it, code to those who                          │
 │        need it, wisdom to those who are ready.                          │
 │                                                                         │
-│        email: kj3x39@gmail.com                                          │
-│        github: @kae3g                                                   │
-│        instagram: @risc.love                                            │
-│        keaton dunsford                                                  │
 │                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+│        email: kj3x39@gmail.com                                          │
