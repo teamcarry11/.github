@@ -105,7 +105,7 @@
 │        need it, wisdom to those who are ready.                          │
 │                                                                         │
 │        contact: kj3x39@gmail.com                                       │
-│        keaton dunsford / @risc.love                                    │
+│        keaton dunsford / @kae3g / @risc.love                          │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
