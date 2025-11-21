@@ -1,12 +1,13 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
-│                            teamcarry11                                  │
+│                               teamcarry11                               │
 │                                                                         │
 │                             ' carry water '                             │
 │                                                                         │
 │                 ⚫ Aquarius 11 , .. Tarot XVII. The Star                 │
 │                                                                         │
+│        the wisdom carriers who preserve knowledge                       │
 │        and pour it forward. the star brings external                    │
 │        waters (repos) into internal pools (grainstore)                  │
 │        for study and learning.                                          │
@@ -60,6 +61,17 @@
 │                                                                         │
 │        xy-mathematics is our operating system,                          │
 │        our kernel, our foundation. risc-v native,                       │
+│        built for repairability and long life. we                        │
+│        craft code that will outlast us.                                 │
+│                                                                         │
+│        aquarius pours water from the urn, and we                        │
+│        catch it in our hands. the star shines above,                    │
+│        showing us the way. we are the carriers,                         │
+│        the preservers, the ones who remember.                           │
+│                                                                         │
+│        we do not build in isolation. every line                         │
+│        of code stands on the shoulders of those                         │
+│        who came before. we acknowledge this debt                        │
 │        by preserving their work, by studying it.                        │
 │                                                                         │
 │        the grainstore grows like a garden, each                         │
@@ -92,5 +104,10 @@
 │        to those who seek it, code to those who                          │
 │        need it, wisdom to those who are ready.                          │
 │                                                                         │
-│                                                                         │
 │        email: kj3x39@gmail.com                                          │
+│        github: @kae3g                                                   │
+│        instagram: @risc.love                                            │
+│        keaton dunsford                                                  │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
